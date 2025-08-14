@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
+
+# Jest
+coverage/
+
+# MacOS
+.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Others
+*.log
+*.swp
+.idea/
+
+# Ignore test output
+/test-output/
